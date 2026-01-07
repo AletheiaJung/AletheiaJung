@@ -20,4 +20,4 @@ My mission is to restore **Data Sovereignty** and abolish static type dependenci
 
 ---
 
-📫 **Contact**: aletheia.jung@gmail.com
+📫 **Contact**: aletheia.jung.arch@gmail.com
