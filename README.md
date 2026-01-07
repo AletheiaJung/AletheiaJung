@@ -1,23 +1,65 @@
-### Hi there, I'm Aletheia Jung 👋
+# Hi there, I'm Aletheia Jung 👋
 
-> **"Data defines itself. Code should only listen."**
+> *"My mind holds countless memories and ideas, yet I speak through a single mouth.*  
+> *I don't need a new mouth for each memory, a new voice for each idea."*
 
-I am a **System Architect** with about 30 years of experience in enterprise systems.
-I advocate for **Single-Mouth Architecture (SMA)** to eliminate redundancy and optimize for the AI era.
-
-My mission is to restore **Data Sovereignty** and abolish static type dependencies in modern software engineering.
+This is my philosophy — and the foundation of **Single-Mouth Architecture (SMA)**.
 
 ---
 
-### 🔭 Current Focus
-- **The SMA Manifesto**: Establishing a new standard for AI-Native Architecture.
-- **Implicit Strictness**: Replacing explicit type definitions with semantic naming protocols.
-- **JIT Data Bridge**: Creating a seamless flow from DB to UI without boilerplate code.
+## 🎯 What I Believe
 
-### 💬 Philosophy
-- **One Mouth is Enough**: The database is the Single Source of Truth (SSOT).
-- **Zero-Impedance**: Logic should flow like water, unhindered by rigid interfaces.
+A system contains many data entities — Users, Orders, Products, Transactions.  
+But it doesn't need a separate "voice" at every layer.
+
+**One authoritative voice is enough. That voice is the Database.**
+
+Just as my single mouth expresses infinite thoughts,  
+a single well-designed database can express all data truths.
+
+The layers above? They don't speak. They **listen and relay**.
 
 ---
 
-📫 **Contact**: aletheia.jung.arch@gmail.com
+## 🔭 Current Focus
+
+| Project | Description |
+|---------|-------------|
+| **[Single-Mouth Architecture](https://github.com/AletheiaJung/Single-Mouth-Architecture)** | A methodology to eliminate redundant type definitions and restore Data Sovereignty |
+
+---
+
+## 💬 Core Principles
+
+| Principle | Meaning |
+|-----------|---------|
+| **One Mouth is Enough** | Database is the Single Source of Truth. No redundant definitions. |
+| **Implicit Strictness** | Naming conventions replace explicit type declarations |
+| **Fluid Integrity** | Runtime defense over compile-time illusion |
+
+---
+
+## 🌱 Why "Aletheia"?
+
+**Aletheia (ἀλήθεια)** — Greek for "truth" or "disclosure."
+
+In philosophy, it means *unconcealment* — revealing what is hidden.
+
+I chose this name because I believe:
+> **Data should reveal its own truth. Code should not conceal it with layers of abstraction.**
+
+---
+
+## 📫 Connect
+
+- 📧 Email: aletheia.jung.arch@gmail.com
+- 🐙 GitHub: [@AletheiaJung](https://github.com/AletheiaJung)
+
+---
+
+<div align="center">
+
+*"Simplicity is the ultimate sophistication."*  
+— Leonardo da Vinci
+
+</div>
